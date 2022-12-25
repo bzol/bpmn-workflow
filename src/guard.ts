@@ -1,0 +1,1 @@
+/* guards against bad XML files */
